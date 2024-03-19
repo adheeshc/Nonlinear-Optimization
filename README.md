@@ -1,1 +1,1 @@
-# Optimization Algorithsm
+# Optimization Algorithms
